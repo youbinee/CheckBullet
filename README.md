@@ -16,3 +16,16 @@ CheckBullet operates based on the Tensorflow library and performs training on ti
 
 ## How to run
 CheckBullet is implemented as an extendible module for Tensorflow.
+
+1. Import CheckBullet controller and checkpoint in the training callbacks
+```
+from cb_controller.Controller import controller
+from cb_checkpoint.Checkpoint import checkpoint
+'''
+
+2. Set model configuration parameters for a model
+
+2. Run CheckBullet training
+'''
+python training.py
+'''
