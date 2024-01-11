@@ -8,8 +8,8 @@ CheckBullet architecture has four major components: 1) CheckBullet controller (C
 ## Requirements
 We recommend the following specifications.
 
-1. Python 3.5.x  [Link](https://www.python.org/downloads/ , "Python")
-2. TensorFlow 1.10.0 [Link](https://www.tensorflow.org/, "Tensorflow")
+1. Python 3.5.x  [Link](https://www.python.org/downloads/)
+2. TensorFlow 1.10.0 [Link](https://www.tensorflow.org/)
 
 CheckBullet requires an NVIDIA GPU with CUDA 9.0, CUDNN 7.0, and Python 3.5.x.
 CheckBullet operates based on the Tensorflow library and performs training on time-series data generated from mobile networks.
