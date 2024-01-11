@@ -5,6 +5,7 @@ CheckBullet is a lightweight checkpoint system that minimizes storage requiremen
 
 CheckBullet architecture has four major components: 1) CheckBullet controller (CC), 2) GPU cluster, 3) CPU cluster, and 4) Storage as shown in the figure below.
 
+
 ![CheckBullet](./image/CheckBullet.png)
 
 ## Requirements
