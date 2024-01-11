@@ -21,11 +21,12 @@ CheckBullet is implemented as an extendible module for Tensorflow.
 ```
 from cb_controller.Controller import controller
 from cb_checkpoint.Checkpoint import checkpoint
-'''
+```
 
 2. Set model configuration parameters for a model
 
 2. Run CheckBullet training
-'''
+```
 python training.py
+```
 '''
