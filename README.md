@@ -29,4 +29,3 @@ from cb_checkpoint.Checkpoint import checkpoint
 ```
 python training.py
 ```
-'''
